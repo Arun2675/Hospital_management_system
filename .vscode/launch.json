@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HospitalApp",
+            "request": "launch",
+            "mainClass": "com.hospital.main.HospitalApp",
+            "projectName": "hospital-management-system"
+        },
+        {
+            "type": "java",
+            "name": "Run Hospital Management System",
+            "request": "launch",
+            "mainClass": "com.hospital.main.HospitalApp",
+            "projectName": "R24SA005_ARUN_SHARMA_JavaProject"
+        }
+    ]
+}

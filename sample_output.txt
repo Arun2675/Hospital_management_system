@@ -1,0 +1,137 @@
+Welcome to REVA CITY HOSPITAL
+
+=================================
+     REVA CITY HOSPITAL - MAIN MENU
+=================================
+1. Register New Patient
+2. Register New Doctor
+3. List All Patients
+4. List All Doctors
+5. Search Patient by Name
+6. Show Bills (Payable interface demo)
+7. Dynamic Binding Demo (Person references)
+8. Hospital Statistics
+0. Exit
+Enter your choice: 
+--- Registered Patients (2) ---
+1. [ID=1] Aarav Mehta | Age: 34 | Gender: M | Contact: 9876543210 | PatientID: P001 | Dept: CARDIOLOGY | Days: 3 | Emergency: false
+2. [ID=2] Sneha Rao | Age: 8 | Gender: F | Contact: 9876500000 | PatientID: P002 | Dept: PEDIATRICS | Days: 2 | Emergency: true
+
+=================================
+     REVA CITY HOSPITAL - MAIN MENU
+=================================
+1. Register New Patient
+2. Register New Doctor
+3. List All Patients
+4. List All Doctors
+5. Search Patient by Name
+6. Show Bills (Payable interface demo)
+7. Dynamic Binding Demo (Person references)
+8. Hospital Statistics
+0. Exit
+Enter your choice: 
+--- Registered Doctors (2) ---
+1. [ID=3] Dr. Kavita Iyer | Age: 45 | Gender: F | Contact: 9123456780 | Specialization: Cardiologist | Dept: CARDIOLOGY | Experience: 15 yrs | Level: Chief Consultant
+2. [ID=4] Dr. Rohan Das | Age: 29 | Gender: M | Contact: 9123456781 | Specialization: Pediatrician | Dept: PEDIATRICS | Experience: 3 yrs | Level: Junior
+
+=================================
+     REVA CITY HOSPITAL - MAIN MENU
+=================================
+1. Register New Patient
+2. Register New Doctor
+3. List All Patients
+4. List All Doctors
+5. Search Patient by Name
+6. Show Bills (Payable interface demo)
+7. Dynamic Binding Demo (Person references)
+8. Hospital Statistics
+0. Exit
+Enter your choice: Enter name (or part of name) to search: Found: [ID=2] Sneha Rao | Age: 8 | Gender: F | Contact: 9876500000 | PatientID: P002 | Dept: PEDIATRICS | Days: 2 | Emergency: true
+Age Category (final method): Child
+
+=================================
+     REVA CITY HOSPITAL - MAIN MENU
+=================================
+1. Register New Patient
+2. Register New Doctor
+3. List All Patients
+4. List All Doctors
+5. Search Patient by Name
+6. Show Bills (Payable interface demo)
+7. Dynamic Binding Demo (Person references)
+8. Hospital Statistics
+0. Exit
+Enter your choice: Name: Age: Gender (M/F/O): Contact Number: Department (1-Cardiology 2-Neurology 3-Orthopedics 4-Pediatrics 5-General): Number of days admitted: Is this an emergency case? (yes/no): Enter symptoms (comma separated): Patient registered successfully with ID: P003
+
+=================================
+     REVA CITY HOSPITAL - MAIN MENU
+=================================
+1. Register New Patient
+2. Register New Doctor
+3. List All Patients
+4. List All Doctors
+5. Search Patient by Name
+6. Show Bills (Payable interface demo)
+7. Dynamic Binding Demo (Person references)
+8. Hospital Statistics
+0. Exit
+Enter your choice: 
+--- Full Hospital Roster (Dynamic Binding Demo) ---
+[Patient] [ID=1] Aarav Mehta | Age: 34 | Gender: M | Contact: 9876543210 | PatientID: P001 | Dept: CARDIOLOGY | Days: 3 | Emergency: false
+[Patient] [ID=2] Sneha Rao | Age: 8 | Gender: F | Contact: 9876500000 | PatientID: P002 | Dept: PEDIATRICS | Days: 2 | Emergency: true
+[Patient] [ID=5] Rohit Verma | Age: 29 | Gender: M | Contact: 9988776655 | PatientID: P003 | Dept: CARDIOLOGY | Days: 3 | Emergency: true
+[Doctor] [ID=3] Dr. Kavita Iyer | Age: 45 | Gender: F | Contact: 9123456780 | Specialization: Cardiologist | Dept: CARDIOLOGY | Experience: 15 yrs | Level: Chief Consultant
+[Doctor] [ID=4] Dr. Rohan Das | Age: 29 | Gender: M | Contact: 9123456781 | Specialization: Pediatrician | Dept: PEDIATRICS | Experience: 3 yrs | Level: Junior
+
+=================================
+     REVA CITY HOSPITAL - MAIN MENU
+=================================
+1. Register New Patient
+2. Register New Doctor
+3. List All Patients
+4. List All Doctors
+5. Search Patient by Name
+6. Show Bills (Payable interface demo)
+7. Dynamic Binding Demo (Person references)
+8. Hospital Statistics
+0. Exit
+Enter your choice: 
+--- Patient Bills ---
+Aarav Mehta (P001) -> Amount Payable (incl. tax): Rs. 4620.00 | Rounded (cast to int): Rs. 4620
+Sneha Rao (P002) -> Amount Payable (incl. tax): Rs. 3675.00 | Rounded (cast to int): Rs. 3675
+Rohit Verma (P003) -> Amount Payable (incl. tax): Rs. 5145.00 | Rounded (cast to int): Rs. 5145
+TOTAL HOSPITAL REVENUE: Rs. 13440.00
+
+=================================
+     REVA CITY HOSPITAL - MAIN MENU
+=================================
+1. Register New Patient
+2. Register New Doctor
+3. List All Patients
+4. List All Doctors
+5. Search Patient by Name
+6. Show Bills (Payable interface demo)
+7. Dynamic Binding Demo (Person references)
+8. Hospital Statistics
+0. Exit
+Enter your choice: 
+--- Hospital Statistics (static fields/methods) ---
+Total Persons created ever: 5
+Total Patients created ever: 3
+Total Doctors created ever: 2
+Menu screens shown so far: 7
+
+=================================
+     REVA CITY HOSPITAL - MAIN MENU
+=================================
+1. Register New Patient
+2. Register New Doctor
+3. List All Patients
+4. List All Doctors
+5. Search Patient by Name
+6. Show Bills (Payable interface demo)
+7. Dynamic Binding Demo (Person references)
+8. Hospital Statistics
+0. Exit
+Enter your choice: Exiting. Thank you for using REVA CITY HOSPITAL
+Total menu screens shown this session: 8

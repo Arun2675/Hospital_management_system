@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.configuration.maven.userSettings": null,
+    "java.autobuild.enabled": true
+}
